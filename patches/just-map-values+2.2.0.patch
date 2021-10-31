@@ -1,0 +1,12 @@
+diff --git a/node_modules/just-map-values/package.json b/node_modules/just-map-values/package.json
+index 17a32ee..ef0cfa9 100644
+--- a/node_modules/just-map-values/package.json
++++ b/node_modules/just-map-values/package.json
+@@ -2,7 +2,6 @@
+   "name": "just-map-values",
+   "version": "2.2.0",
+   "description": "map an object, predicate updates values, receives (value, key, object)",
+-  "type": "commonjs",
+   "main": "index.js",
+   "module": "index.esm.js",
+   "exports": {
